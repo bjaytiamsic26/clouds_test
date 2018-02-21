@@ -13,33 +13,24 @@ The Taggable model keeps many-to-many relationships between User and Tag.
 ## You must:
 
 * Review the test web app codes to model the database structure
-* 
-
-Write all codes in Elixir
-* 
-Use the Phoenix framework
-* 
-Use the Ecto library
-* 
-Use PostgreSQL for the database
-* 
-Use the included database seed (.csv)
-* 
-Use JSON API format for all requests and responses
+*Write all codes in Elixir
+* Use the Phoenix framework
+* Use the Ecto library
+* Use PostgreSQL for the database
+* Use the included database seed (.csv)
+* Use JSON API format for all requests and responses
 
 
 
 ## You must not:
 
-*
-Alter any of the front-end codes
+*Alter any of the front-end codes
 
 ## 
 
 You may:
 
-* 
-Use an Elixir library for JSON API de/serialization rather than writing your own
+* Use an Elixir library for JSON API de/serialization rather than writing your own
 
 # 
 
